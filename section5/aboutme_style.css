@@ -1,11 +1,33 @@
 h1 {
-	color:red;
+	color:#FF8800;
+	/*border-color:purple;
+	border-width:5px;
+	border-style:double;*/
+	border:8px dashed black;
 }
 
 li {
-	color:green;
+	color:rgb(100,0,125);
 }
 
 h4 {
-	color:purple;
+	color:rgba(100,0,125,0.6);
+	background:rgb(255,100,80);
 }
+
+body {
+	background:pink;
+	/*background:url(https://www.tempaperdesigns.com/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/w/o/woodgrain_texturedpewter_wo079_rgb_swatch_1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;*/
+}
+
+div {
+	background:#3498db;
+}
+
+p {
+	color:#ecf0f1;
+}
+
+/*borders have width, color, and style!*/
