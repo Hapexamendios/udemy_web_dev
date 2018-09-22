@@ -1,10 +1,10 @@
 /*font-family*/
 p {
-	font-family:"Arial";
+	font-family:Cairo;
 }
 
 h1 {
-	font-family:"Georgia";
+	font-family:Indie Flower;
 }
 
 /*font-size*/
@@ -30,7 +30,7 @@ font-weight
 font weight can be values of 100 from 100 to 800 if the font supports it
 */
 p {
-	font-weight:normal;
+	font-weight:bold;
 }
 
 /*line-height*/
